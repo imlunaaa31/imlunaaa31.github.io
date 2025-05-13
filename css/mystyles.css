@@ -1,0 +1,41 @@
+p{
+    color:rgb(70, 66, 97);
+}
+
+.luna{
+    background-color: rgb(210, 182, 236);
+}
+
+a.lunalink {
+    padding: 0px 30px;
+    margin-left: 10px;
+    border-radius: 50px;
+    color:rgb(196, 145, 198);
+
+}
+
+a.lunalink:hover {
+    background-color: rgb(231, 216, 246);
+    color:rgb(185, 176, 237);
+}
+
+div.lunadivgrey{
+    background-color: rgb(231, 216, 246);
+    padding:30px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    width: 100%;
+    margin: 10px auto;
+
+}
+
+h4.lunasmallh4{
+    font-size: 20px;
+    color:dimgrey
+}
+
+.lunabg{
+    background-image: url("../assets/img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
