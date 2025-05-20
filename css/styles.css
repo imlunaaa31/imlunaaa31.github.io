@@ -8127,7 +8127,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgb(173, 144, 180 )  !important;
+  background-color: #B5C0D0!important;
 }
 
 .bg-secondary {
@@ -10951,7 +10951,7 @@ section.resume-section {
   padding-top: 5rem;
   padding-bottom: 5rem;
   max-width: 100rem;
-  background-color: rgb(237, 245, 255 ) ;
+  background-color: #F5EDED ;
 }
 section.resume-section .resume-section-content {
   width: 100%;
