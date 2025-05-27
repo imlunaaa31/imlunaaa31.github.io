@@ -4857,7 +4857,7 @@ textarea.form-control-lg {
 .list-group-item.active {
   z-index: 2;
   color: white;
-  background-color: rgb(173, 144, 180);
+  background-color: #B5C0D0;
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
@@ -8036,7 +8036,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgb(173, 144, 180 ) !important;
+  color: #8294C4 !important;
 }
 
 .text-secondary {
@@ -8081,7 +8081,7 @@ textarea.form-control-lg {
 
 .text-white {
   --bs-text-opacity: 1;
-  color: rgb(102, 109, 158 )!important;
+  color: white!important;
 }
 
 .text-body {
@@ -10864,6 +10864,7 @@ p.lead {
   text-transform: uppercase;
   font-weight: 500;
   font-size: 1.5rem;
+  margin: 20px;
 }
 
 #sideNav {
@@ -10926,8 +10927,8 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: rgb(196, 145, 198);
-  color: #fff;
+  background-color: #8294C4;
+  color: white;
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
@@ -10936,7 +10937,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color:rgb(196, 145, 198);
+  background-color:#B5C0D0;
 }
 
 .dev-icons {
@@ -10951,7 +10952,7 @@ section.resume-section {
   padding-top: 5rem;
   padding-bottom: 5rem;
   max-width: 100rem;
-  background-color: #F5EDED ;
+  background-color: #ECF2FF ;
 }
 section.resume-section .resume-section-content {
   width: 100%;
